@@ -118,6 +118,10 @@ a {
     text-align: center;
 }
 
-#colorWell {
-    color: aqua;
+footer {
+    font-size: 25px;
+    margin-bottom: 50px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
 }
