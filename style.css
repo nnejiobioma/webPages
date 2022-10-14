@@ -14,22 +14,9 @@ main {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    /* width: 300px; */
     margin-top: 50px;
     margin-bottom: 50px;
-    /* height: 100vh; */
 }
-
-
-/* .Content {} */
-
-
-/* 
-.containerImg {
-    width: 200px;
-    height: 200px;
-    border-radius: 25px;
-} */
 
 img {
     border-radius: 50%;
